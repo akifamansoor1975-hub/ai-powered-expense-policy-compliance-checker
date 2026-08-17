@@ -1,0 +1,7 @@
+fastapi
+pydantic
+pydantic-settings
+openai-agents
+langchain
+pinecone
+uvicorn
