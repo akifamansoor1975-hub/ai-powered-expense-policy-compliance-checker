@@ -3,5 +3,7 @@ pydantic
 pydantic-settings
 openai-agents
 langchain
+langchain-community
+pypdf
 pinecone
 uvicorn
